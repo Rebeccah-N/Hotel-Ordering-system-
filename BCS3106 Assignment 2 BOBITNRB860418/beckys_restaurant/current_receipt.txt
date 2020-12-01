@@ -1,0 +1,20 @@
+xxxxx ---------- xxxxx
+
+BECKY'S RESTAURANT
+----------------------
+ITEM		PRICE
+----		-----
+fish		300
+-----		-----
+TOTAL: 		300
+-----------------------
+Cash Tendered:	400
+CHANGE:		100
+-----------------------
+Date: : 30, Nov 2020
+Time: 21:07:56
+-----------------------
+Thank You.
+Come again.
+
+xxxxx ---------- xxxxx

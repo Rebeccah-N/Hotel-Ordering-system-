@@ -1,0 +1,2 @@
+fish main 300
+chicken main 300

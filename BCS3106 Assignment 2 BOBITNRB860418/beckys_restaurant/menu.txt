@@ -1,0 +1,9 @@
+chicken main 300
+soup starter 100
+fries main 150
+soda starter 50
+matoke main 250
+fish main 300
+tea starter 50
+coffee starter 50
+pilau main 200
